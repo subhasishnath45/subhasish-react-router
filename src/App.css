@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+nav{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  height:10vh;
+  background:#444444;
+  color:#fff;
+  padding:10px 0;
+}
+nav h3 a{
+  color:#ffffff;
+  text-transform:uppercase;
+  text-decoration: none;
+}
+nav ul li{
+  display:inline;
+  padding:0 10px;
+}
+nav ul li a{
+  color:#ffffff;
+  text-transform:uppercase;
+  text-decoration: none;
+}
